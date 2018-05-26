@@ -31,7 +31,7 @@ git clone --recurse-submodules https://github.com/dominikschopper/code-katas.git
 
 ## Code Kata I: Anagrams
 
-the anagrams kata see in the [anagrams](./anagrams/README.md) submodule
+the anagrams kata see in the [anagrams](./anagram-kata/README.md) submodule
 
 ## Code Kata II: FizzBuzz
 
