@@ -23,12 +23,18 @@ also do them alone
 My opinion is that good code should not only do the assigned job, but also be very well readable, easy to extend
 or change, but you should already know these rules or look up Uncle Bobs Clean Code book ;)
 
+I am starting to do these katas as submodules, so you should check out this with all its katas with
+
+```bash
+git clone --recurse-submodules https://github.com/dominikschopper/code-katas.git
+```
+
 ## Code Kata I: Anagrams
 
-the anagrams kata see in the [anagrams](./anagrams/README.md) subdir
+the anagrams kata see in the [anagrams](./anagrams/README.md) submodule
 
 ## Code Kata II: FizzBuzz
 
-the traditional fizz-buizz kata see in the [fizz-buzz](./fizz-buzz/README.md) subdir
+the traditional fizz-buizz kata see in the [fizz-buzz](./fizz-buzz/README.md) submodule
 
 ... I guess there will be more to come ;)
