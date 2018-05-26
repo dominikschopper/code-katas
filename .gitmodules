@@ -1,0 +1,3 @@
+[submodule "anagram-kata"]
+	path = anagram-kata
+	url = https://github.com/dominikschopper/anagram-kata.git
