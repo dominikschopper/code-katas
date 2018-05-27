@@ -1,3 +1,6 @@
 [submodule "anagram-kata"]
 	path = anagram-kata
 	url = https://github.com/dominikschopper/anagram-kata.git
+[submodule "fizz-buzz-kata"]
+	path = fizz-buzz-kata
+	url = https://github.com/dominikschopper/fizz-buzz-kata.git
