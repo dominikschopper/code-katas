@@ -41,4 +41,6 @@ the traditional fizz-buizz kata see in the [fizz-buzz](./fizz-buzz/README.md) su
 
 Conways "Game of Life" implemented in a kata. It is still written in german and has the necessary tests, so you can start right away and implement the logic.
 
+See the [Game of Life](./game-of-life/README.md) submodule
+
 ... I guess there will be more to come ;)
