@@ -37,4 +37,8 @@ the anagrams kata see in the [anagrams](./anagram-kata/README.md) submodule
 
 the traditional fizz-buizz kata see in the [fizz-buzz](./fizz-buzz/README.md) submodule
 
+## Code Kata III: Game of Life
+
+Conways "Game of Life" implemented in a kata. It is still written in german and has the necessary tests, so you can start right away and implement the logic.
+
 ... I guess there will be more to come ;)

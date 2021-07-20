@@ -4,3 +4,6 @@
 [submodule "fizz-buzz-kata"]
 	path = fizz-buzz-kata
 	url = https://github.com/dominikschopper/fizz-buzz-kata.git
+[submodule "game-of-life"]
+	path = game-of-life
+	url = git@github.com:dominikschopper/code-kata-game-of-life.git
